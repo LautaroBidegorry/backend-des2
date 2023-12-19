@@ -46,5 +46,11 @@
     "name": "Marian",
     "photo": "https://picsum.photos/200/300?grayscale",
     "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 9,
+    "name": "Marian",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
   }
 ]

@@ -40,5 +40,12 @@
     "photo": "https://picsum.photos/640/360",
     "price": 100,
     "stock": 10
+  },
+  {
+    "id": 7,
+    "title": "tituloPHtest",
+    "photo": "https://picsum.photos/640/360",
+    "price": 100,
+    "stock": 10
   }
 ]
