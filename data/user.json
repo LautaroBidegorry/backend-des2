@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Susan",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Richard",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Oliver",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Max",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "August",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Marian",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 7,
+    "name": "Marian",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  },
+  {
+    "id": 8,
+    "name": "Marian",
+    "photo": "https://picsum.photos/200/300?grayscale",
+    "email": "placeholder@gmail.com"
+  }
+]
